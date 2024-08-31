@@ -11,15 +11,18 @@ Calculadora calc = new Calculadora();
 // calc.Coseno(30);
 // calc.Tangente(30);
 
-int numeroIncremento = 10;
+calc.RaizQuadrada(9);
 
-Console.WriteLine(numeroIncremento);
-Console.WriteLine("Incrementando");
-numeroIncremento ++;
-Console.WriteLine(numeroIncremento);
+// int numeroIncremento = 10;
 
-int numeroDecremento = 10;
-Console.WriteLine("Decrementando");
-numeroDecremento --;
-Console.WriteLine(numeroDecremento);
+// Console.WriteLine(numeroIncremento);
+// Console.WriteLine("Incrementando");
+// numeroIncremento ++;
+// Console.WriteLine(numeroIncremento);
+
+// int numeroDecremento = 10;
+// Console.WriteLine("Decrementando");
+// numeroDecremento --;
+// Console.WriteLine(numeroDecremento);
+
 
