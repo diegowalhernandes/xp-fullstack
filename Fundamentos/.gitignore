@@ -1,0 +1,13 @@
+# Excluir arquivos e pastas gerados pelo build
+bin/
+obj/
+
+# Excluir arquivos temporários
+*.user
+*.lock
+*.log
+*.vspscc
+.vscode/
+
+# Excluir arquivos gerados pelo Visual Studio
+.vs/
